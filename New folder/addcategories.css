@@ -1,0 +1,25 @@
+.task_32{
+    margin: 1px;
+    padding: 10px;
+    color:white;
+    background-color: brown;
+    text-align: center;
+    box-sizing:border-box
+}
+
+.task_33,input{
+    margin: 1px;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    width: 90%;
+}
+
+.task_34{
+    margin: 1px;
+    padding: 10px;
+    color:#007bff;
+    text-align: center;
+    border-radius: 48px;
+    outline: none;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.task_29{
+    margin: 1px;
+    padding: 10px;
+    color:white;
+    background-color: brown;
+    text-align: center;
+    box-sizing:border-box
+}
+
+.task_30{
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+}
+.task_31,button{
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+    text-align: center;
+    border-radius: 700px;   
+}

@@ -1,0 +1,54 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+.content{
+    margin: 10px;
+    padding: 10px;
+    color:white;
+    background-color: brown;
+    text-align: center;
+    box-sizing:border-box
+}
+
+.container{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.task{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.task_1,input{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.task_2,button{
+    margin: 10px;
+    padding: 10px;
+    color:#007bff;
+    text-align: center;
+    border-radius: 48px;
+    outline: none;
+}
+
+.task_3{
+    margin: 10px;
+    padding: 10px;
+    color:blue;
+    text-align: center;
+}
+
+.task_4{
+    margin: 10px;
+    padding: 10px;
+    color:blue;
+    text-align: center;
+}

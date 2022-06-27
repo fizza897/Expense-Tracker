@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.task_8{
+    margin: 1px;
+    padding: 10px;
+    color:white;
+    background-color: brown;
+    text-align: center;
+    box-sizing:border-box
+}
+
+.task_9,input{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+.task_10,button{
+    margin: 10px;
+    padding: 10px;
+    color:green;
+    text-align: center;
+    border-radius: 48px;
+    outline: none;
+}
+
+.task_11{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+}
+
+.task_12{
+    margin: 10px;
+    color: black;
+    border: 10px;
+
+}

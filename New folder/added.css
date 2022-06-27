@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.task_13,img{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+.task_14,input{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.taks_15,button{
+    margin: 10px;
+    padding: 10px;
+    color:black;
+    background-color:hsl(240, 50%, 50%);
+    text-align: center;
+    border-radius: 10px;
+    outline: none;
+}
